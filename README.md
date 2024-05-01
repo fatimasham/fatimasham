@@ -21,9 +21,16 @@ Welcome to my profile! I've been learning to code for 2 years. I started with HT
 ----------------------------------
 ### Skills
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a>
-</p>
+![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=plastic)
+![React](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=plastic)
+![React](https://img.shields.io/badge/-HTML5-ed4110?logo=html5&logoColor=white&style=plastic)
+![React](https://img.shields.io/badge/-CSS3-1373b8?logo=css3&logoColor=white&style=plastic)
+![React](https://img.shields.io/badge/-Bootstrap-663b7d?logo=bootstrap&logoColor=white&style=plastic)
+![React](https://img.shields.io/badge/-NodeJS-43c32d?logo=node.js&logoColor=white&style=plastic)
+![React](https://img.shields.io/badge/-VS-007ACC?logo=visualstudiocode&logoColor=white&style=plastic)
+![React](https://img.shields.io/badge/-Redux-764ABC?logo=Redux&logoColor=white&style=plastic)
+![React](https://img.shields.io/badge/-Figma-F24E1E?logo=Figma&logoColor=white&style=plastic)
+![React](https://img.shields.io/badge/-Wordpress-21759B?logo=Wordpress&logoColor=white&style=plastic)
 
 ----------------------------------
 
@@ -38,3 +45,21 @@ Welcome to my profile! I've been learning to code for 2 years. I started with HT
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatimasham&layout=compact&theme=vision-friendly-dark)](https://github.com/fatimasham/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fatimasham&theme=slateorange&border_radius=4.4)](https://git.io/streak-stats)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
